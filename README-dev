@@ -1,0 +1,6 @@
+pip install install --upgrade
+pip install build
+pip install twine
+pip install pytest
+python -m build
+python -m twine upload --repository pypi dist/*
