@@ -6,9 +6,7 @@ use a complex 3rd-party framework or be concerned about the long-term viability
 of the library.
 
 ## How to install
-
     pip install disl
-
 ## How to use
 Suppose you have a module to read some products' info from a DB file, so the
 path to the DB file should be injected:
